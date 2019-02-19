@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9738" started-at="2019-02-17T16:40:07Z" finished-at="2019-02-17T16:40:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9738" started-at="2019-02-17T16:40:07Z" finished-at="2019-02-17T16:40:16Z">
+      <class name="ebayTestCase.UserGetElementFromCategoryList">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:ebayTestCase.UserGetElementFromCategoryList@4cc0edeb]" name="beforeclass" is-config="true" duration-ms="3139" started-at="2019-02-17T16:40:07Z" finished-at="2019-02-17T16:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ebayTestCase.UserGetElementFromCategoryList@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="2642" started-at="2019-02-17T16:40:10Z" finished-at="2019-02-17T16:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getItem()[pri:0, instance:ebayTestCase.UserGetElementFromCategoryList@4cc0edeb]" name="getItem" duration-ms="1617" started-at="2019-02-17T16:40:13Z" finished-at="2019-02-17T16:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItem -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ebayTestCase.UserGetElementFromCategoryList@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-02-17T16:40:14Z" finished-at="2019-02-17T16:40:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:ebayTestCase.UserGetElementFromCategoryList@4cc0edeb]" name="afterclass" is-config="true" duration-ms="2319" started-at="2019-02-17T16:40:14Z" finished-at="2019-02-17T16:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- ebayTestCase.UserGetElementFromCategoryList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
